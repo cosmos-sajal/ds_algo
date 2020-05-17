@@ -1,5 +1,5 @@
 # https://www.educative.io/courses/grokking-the-coding-interview/gxDOJJ7xAJl
-# https://leetcode.com/problems/4sum-ii/
+# https://leetcode.com/problems/4sum/
 
 
 def search_quadruplets(arr, target):
